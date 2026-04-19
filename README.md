@@ -1,7 +1,9 @@
 # Hi, I'm Samiksha 👋
 
 🚀 AI & Frontend Developer
+
 🎓 B.Tech Student @ VIT Pune
+
 💡 I build intelligent systems and real-world applications using Machine Learning, Web Development, and Databases
 
 ---
@@ -12,14 +14,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### 🧠 AI / ML
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ### 🌐 Web Development
@@ -47,15 +46,6 @@ Machine Learning model using XGBoost with a Streamlit web app to predict cricket
 
 AI integrated smart Database system to manage rescue operations,alerts and workflows in Wildlife
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🚀 Currently Working On
 
