@@ -1,67 +1,39 @@
-# Hi, I'm Samiksha 👋
+# I am Samiksha Mittewad
 
-🚀 AI & Frontend Developer
 
-🎓 B.Tech Student @ VIT Pune
+SY student at VIT Pune .
 
-💡 I build intelligent systems and real-world applications using Machine Learning, Web Development, and Databases
+## 🚀 About Me  
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🧠 AI / ML
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🗄 Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+I’m a student  who enjoys building things that actually work outside of assignments.  
+I’ve been exploring machine learning, web development, and databases by turning ideas into small but complete projects.  
+Right now, I’m focused on improving how I design, build, and think through real-world systems.
 
 ---
 
-## 🔥 Featured Projects
+## 🛠 Tech Stack
 
-
-### 📊 CrickiFy – Cricket Score Predictor
-
-Machine Learning model using XGBoost with a Streamlit web app to predict cricket match scores in real-time
-
-### 🐾 WildGuard DB 
-
-AI integrated smart Database system to manage rescue operations,alerts and workflows in Wildlife
-
-
-## 🚀 Currently Working On
-
-* Agile Project Risk Tracker
-* Building impactful AI-based systems
-* Improving full-stack development skills
+**Languages:** Python, C++,
+**ML & Data:** Scikit-learn, Pandas, NumPy
+**Web:** HTML, CSS, React (learning)
+**Database:** MySQL
+**Tools:** Git, GitHub
 
 ---
 
-## 📫 Connect With Me
+## 📌 Projects
+
+
+**CrickiFy – Cricket Score Predictor**
+Machine learning model with a streamlit based web app for score prediction
+
+**Agile Projects Management Risk Tracker**
+A webapp using react to predict risk of a Agile Projecti n Real time
+
+---
+---
+
+## 📫 Contact
 
 * LinkedIn: [https://www.linkedin.com/in/samiksha-mittewad-7517a3331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 * Email: [s.m.mittewad@gmail.com]
-
----
-
-## ⚡ Fun Fact
-
-I enjoy blending creativity with technology to build meaningful and innovative projects 
