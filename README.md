@@ -1,4 +1,4 @@
-# I am Samiksha Mittewad
+# Samiksha Mittewad
 
 
 SY student at VIT Pune .
